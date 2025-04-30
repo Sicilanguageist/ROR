@@ -4,6 +4,5 @@ ROR, or Romance Orthographic Reintegrationism, is a set of guidelines that propo
 
 Instead of creating one uniform spelling for all RMLs, ROR offers principles that encourage orthographic similarity across the Romance family, focusing on historical accuracy and relative simplicity. The goal is to improve mutual intelligibility between Romance languages and reduce the isolation of minority languages, while still allowing each language its individuality.
 
-[CURRENT VERSION OF THE PROPOSAL IN PDF](PDF_v0.5.pdf)
-
-[ORIGINAL YOUTUBE VIDEO ABOUT ROR](https://youtu.be/T8GsnYJGPq8?si=RHE-02wEer5mRlKx)
+- To see the current version of the proposal in PDF, click [here](PDF_v0.5.pdf).
+- To see the original YouTube video about ROR, click [here](https://youtu.be/T8GsnYJGPq8?si=RHE-02wEer5mRlKx).
