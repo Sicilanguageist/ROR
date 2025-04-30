@@ -26,6 +26,6 @@
 ### General Principles
 - Avoid diacritics, letters and multigraphs (di-, tri- and quadrigraphs) that are not used in the languages of reference (like &lt;k, w&gt;).
 - Acknowledge what these orthographic conventions are and try and understand what their *etymological* role is within the system they are borrowed from. Etymologically established spelling conventions can be extended to non-etymological contexts (see e.g. Spanish &lt;j&gt;).
-- Romance reintegrationism prioritises reader clarity over writer ease by aiming for each grapheme to represent only one phoneme, even if a phoneme has multiple spellings.
+- Prioritise reader clarity over writer ease by aiming for each grapheme to represent only one phoneme, even if a phoneme has multiple spellings.
 - Avoid double marking, i.e. marking a feature or element more than once.
 - Avoid using diacritics frequently.
