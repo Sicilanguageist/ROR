@@ -18,7 +18,7 @@
 - Ground (or reintegrate) the orthographies of RMLs into the common practices of the languages of reference by etymologically justifying certain spelling choices
 - Leave room for a diversity of outcomes, letting RMLs maintain their own individuality and identity
 - Increase mutual intelligibility with other Romance languages in writing
-- Breake the linguistic isolation most minority languages face
+- Break the linguistic isolation most minority languages face
 - Fosters etymological research and the creation of an active scholarly community
 
 ## Guidelines
