@@ -8,4 +8,4 @@ Instead of creating one uniform spelling for all RMLs, ROR offers principles tha
 
 - **To see the current version of the proposal in PDF, click [here](PDF_v0.8.pdf). The bulk of the proposal is finished; the only thing missing is two out of three case studies.**
 - To see the original YouTube video about ROR, click [here](https://youtu.be/T8GsnYJGPq8?si=RHE-02wEer5mRlKx). It is more limited in scope, it is less specific and more theoretical.
-- I'm also working on a schematised summary of the proposal. It is not finished, but if you want to read it you can do so [here](ROR_summary.md).
+- I'm now working on a website! This is the link: [https://sicilanguageist.github.io/].
