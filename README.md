@@ -1,6 +1,6 @@
 # Romance Orthographic Reintegrationism
 
-**THE FIRST CASE STUDY (WALLOON) IS NOW PRESENT IN THE PDF**
+**I'm now working on a website! This is the link: [https://sicilanguageist.github.io/](https://sicilanguageist.github.io/)**
 
 ROR, or Romance Orthographic Reintegrationism, is a set of guidelines that proposes how Romance minority languages (RMLs) should design their orthographies (writing systems) to align more closely with the major Romance languages like Italian, Spanish, Portuguese, Catalan, Occitan, French, and Romanian.
 
@@ -8,4 +8,3 @@ Instead of creating one uniform spelling for all RMLs, ROR offers principles tha
 
 - **To see the current version of the proposal in PDF, click [here](proposal.pdf). The bulk of the proposal is finished; the only thing missing is two out of three case studies.**
 - To see the original YouTube video about ROR, click [here](https://youtu.be/T8GsnYJGPq8?si=RHE-02wEer5mRlKx). It is more limited in scope, it is less specific and more theoretical.
-- I'm now working on a website! This is the link: https://sicilanguageist.github.io/
